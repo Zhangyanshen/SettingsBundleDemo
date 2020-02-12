@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  SettingsBundleDemo
+
+  Created by 张延深 on 2020/2/12.
+  Copyright © 2020 张延深. All rights reserved.
+*/
+
+CFBundleDisplayName = "app设置";

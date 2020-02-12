@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  SettingsBundleDemo
+
+  Created by 张延深 on 2020/2/12.
+  Copyright © 2020 张延深. All rights reserved.
+*/
+
+option_preference_text = "选项：";
+api_preference_text = "域名：";
+rotation_lock_preference_text = "方向锁定：";
+slider_preference_text = "音量：";
+version_preference_text = "版本：";
